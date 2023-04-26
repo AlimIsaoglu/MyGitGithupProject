@@ -12,6 +12,9 @@ public class AtmApp {
         System.out.println("Javayi ogrenmek cok kolaydi");
 
         System.out.println("");
+        if (true){
+
+        }
         //ali3
 
 
