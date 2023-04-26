@@ -9,6 +9,8 @@ public class AtmApp {
 
         System.out.println("Learn Java earn money!!");
 
+        System.out.println("Javayi ogrenmek cok kolaydi");
+
 
 
 
