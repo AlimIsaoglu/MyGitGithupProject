@@ -16,6 +16,8 @@ public class AtmApp {
 
         }
         //ali3
+        
+        // remote repoda degisilik yaptim.
 
 
 
